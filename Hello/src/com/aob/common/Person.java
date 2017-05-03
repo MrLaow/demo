@@ -13,9 +13,9 @@ public class Person {
 
     @Override
     public String toString() {
-        System.out.println("My name is " + this.name+";xxxx");
+        System.out.println("My name is " + this.name+"this.name");
         System.out.println("My name is " + this.name+";;");
-        System.out.println("Hello world name ");
+        System.out.println("Hello world this");
         return "My name is " + this.name+";";
     }
 }
