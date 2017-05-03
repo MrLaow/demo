@@ -13,7 +13,6 @@ public class Person {
 
     @Override
     public String toString() {
-        System.out.println("My name is " + this.name+";");
         System.out.println("My name is " + this.name+";;");
         System.out.println("Hello world");
         return "My name is " + this.name+";";
