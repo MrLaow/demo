@@ -9,6 +9,6 @@ public class Test {
 
     public  static  void  main (String[] args){
 
-        new Person("xuyan").toString();
+        System.out.println(new Person("xuyn").toString()) ;
     }
 }
