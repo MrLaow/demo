@@ -9,7 +9,7 @@ public class Test {
 
     public  static  void  main (String[] args){
 
-        System.out.println("xxxxxx");
+        System.out.println("xxxxxxxxxx");
         System.out.println(new Person("wangtao").toString()) ;
     }
 }
