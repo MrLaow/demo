@@ -13,6 +13,7 @@ public class Person {
 
     @Override
     public String toString() {
+        System.out.println("-------");
         return "My name is " + this.name+";";
     }
 }
